@@ -7,3 +7,5 @@ Since this is an early prototype, the code is intentionally simple and focuses o
 - displaying the incoming values in a clean interface
 
 The goal of this prototype is to verify stable serial communication and real‑time data visualization before integrating more complex features.
+
+Try that this works
